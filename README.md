@@ -1,4 +1,6 @@
-# Assemble The Awesome 😎
+## Assemble The Awesome
+
+**AssemblyScript Package, Project, and Resources List 🚀**
 ## Contents
 
 - [Packages](#packages)
