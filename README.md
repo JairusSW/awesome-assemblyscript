@@ -41,9 +41,10 @@
 #### Serialization
 - [as-json](https://github.com/JairusSW/as-json) - JSON implementation
 - [karmem](https://github.com/inkeliz/karmem) - Fast binary serialization format
+- [FASS](https://github.com/JairusSW/fass) - A blindingly fast schema-driven serialization format
 - [as-proto](https://github.com/piotr-oles/as-proto) - Protobuf implementation
 - [as-msgpack](https://github.com/wapc/as-msgpack) - MessagePack implementation
-- [as-tbs](https://github.com/JairusSW/as-tbs) - Speedy, no overhead, and schema-centered format (WIP)
+- [as-tbs](https://github.com/JairusSW/as-tbs) - ARCHIVED. USE FASS INSTEAD. Speedy, no overhead, and schema-centered format (WIP)
 - [serial-as/borsh](https://github.com/gagdiez/serial-as/tree/main/borsh) - Borsh implementation
 - [serial-as/json](https://github.com/gagdiez/serial-as/tree/main/json) - JSON implementation (unmaintained dependency)
 - [assemblyscript-bson](https://github.com/nearprotocol/assemblyscript-bson) - BSON implementation (unmaintained)
