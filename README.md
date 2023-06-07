@@ -37,6 +37,8 @@
 - [subscript](https://github.com/ascontract/subscript) - Subscript blockchain SDK
 - [biturbo](https://github.com/ewasm/biturbo) - Ethereum 1 EE using Turboproofs
 #### Web
+- [asdom](https://github.com/lume/asdom) - (WIP) DOM bindings
+- [ecmassembly](https://github.com/aspkg/ecmassembly) - (Some) JavaScript APIs ported to AssemblyScript
 #### Backend
 #### Serialization
 - [as-json](https://github.com/JairusSW/as-json) - JSON implementation
@@ -51,6 +53,8 @@
 - [assemblyscript-json](https://github.com/near/assemblyscript-json) - JSON implementation (unmaintained)
 - [as-lzma](https://github.com/01alchemist/AS-LZMA) - LZMA implementation (unmaintained)
 #### Game-Dev
+- [VectorEngine](https://github.com/battlelinegames/VectorEngine) - Vector rendering engine. Retro style.
+- [ASWebGlue](https://github.com/battlelinegames/ASWebGLue) - WebGL bindings
 #### Testing
 #### Math-Numbers
 #### Transforms
