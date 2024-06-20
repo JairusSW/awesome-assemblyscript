@@ -64,7 +64,8 @@
 - [battlelinegames/ASWebGlue](https://github.com/battlelinegames/ASWebGLue) - WebGL bindings
 - [mrchantey/Koora](https://github.com/mrchantey/koora) - 3D game framework
 #### Testing
-- [as-pect](https://github.com/jtenner/as-pect) - Testing framework inspired by Jest
+- [as-pect](https://github.com/jtenner/as-pect) - Testing framework inspired by Jest [UNMAINTAINED]
+- [as-test](https://github.com/JairusSW/as-test) - WIP testing framework
 #### Math/Numbers
 - [MaxGraey/as-bignum](https://github.com/MaxGraey/as-bignum) - Fixed length big numbers
 - [ttulka/as-big](https://github.com/ttulka/as-big) - Arbitrary precision big numbers
@@ -99,3 +100,4 @@
 ## Companies
 **Who is using AssemblyScript?**
 - [SteerProtocol](https://steer.finance/) - [Production] Used in data connectors and off-chain compute
+- [HypermodeAI](https://hypermode.ai/) - [Production] Used as the basis in data connectors and model integration
