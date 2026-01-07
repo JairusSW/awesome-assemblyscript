@@ -34,7 +34,7 @@
 - [JairusSW/as-container](https://github.com/JairusSW/assemble-the-awesome) - Rust-like `Result`` and `Option`` types
 - [MaxGraey/as-variant](https://github.com/MaxGraey/as-variant) - `Variant` type providing dynamicness
 - [MaxGraey/as-string-sink](https://github.com/MaxGraey/as-string-sink) - Efficient String Builder
-- [JairusSW/as-random](https://github.com/MaxGraey/as-random) - Random number generators
+- [MaxGraey/as-random](https://github.com/MaxGraey/as-random) - Random number generators
 #### Security
 - [jedisct1/wasm-crypto](https://github.com/jedisct1/wasm-crypto) - Many hashing algorithms (not updated)
 - [mjethani/superfasthash](https://github.com/mjethani/superfasthash) - SuperFastHash implementation (unmaintained)
