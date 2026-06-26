@@ -62,6 +62,7 @@ Inspired by https://github.com/sindresorhus/awesome
 
 - [asdom](https://github.com/lume/asdom) - DOM bindings (WIP).
 - [ecmassembly](https://github.com/aspkg/ecmassembly) - JavaScript APIs ported to AssemblyScript.
+- [fui-as](https://github.com/zion-sati/fui-as) - Build a11y-compliant WPF/SwiftUI-grade web apps in AssemblyScript running on the browser.
 
 ### Backend
 
