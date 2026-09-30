@@ -57,6 +57,8 @@ Inspired by https://github.com/sindresorhus/awesome
 
 - [subscript](https://github.com/ascontract/subscript) - Subscript blockchain SDK.
 - [biturbo](https://github.com/ewasm/biturbo) - Ethereum 1 EE using Turboproofs.
+- [graph-ts](https://github.com/graphprotocol/graph-tooling/tree/main/packages/ts) - AssemblyScript library for writing subgraph mappings that index blockchain data with The Graph.
+- [massa-as-sdk](https://github.com/massalabs/massa-as-sdk) - SDK for writing Massa smart contracts in AssemblyScript.
 
 ### Web
 
@@ -91,6 +93,7 @@ Inspired by https://github.com/sindresorhus/awesome
 
 - [as-pect](https://github.com/jtenner/as-pect) - Jest-like testing framework. (Unmaintained)
 - [as-test](https://github.com/JairusSW/as-test) - Runtime-agnostic testing framework.
+- [vitest-pool-assemblyscript](https://github.com/themattspiral/vitest-pool-assemblyscript) - Vitest integration for running isolated AssemblyScript tests with coverage reporting.
 
 ### Math & Numbers
 
