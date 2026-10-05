@@ -48,6 +48,7 @@ Inspired by https://github.com/sindresorhus/awesome
 
 ### Security
 
+- [as-sha256](https://github.com/ChainSafe/ssz/tree/master/packages/as-sha256) - SHA-256 implementation in AssemblyScript with JavaScript bindings.
 - [wasm-crypto](https://github.com/jedisct1/wasm-crypto) - Collection of hashing algorithms. (Unmaintained)
 - [superfasthash](https://github.com/mjethani/superfasthash) - SuperFastHash implementation. (Unmaintained)
 - [xoroshiro128starstar](https://github.com/krisselden/xoroshiro128starstar) - Port of xoroshiro128**.
@@ -91,7 +92,7 @@ Inspired by https://github.com/sindresorhus/awesome
 
 ### Testing
 
-- [as-pect](https://github.com/jtenner/as-pect) - Jest-like testing framework. (Unmaintained)
+- [as-pect](https://github.com/as-pect/as-pect) - Jest-like testing framework.
 - [as-test](https://github.com/JairusSW/as-test) - Runtime-agnostic testing framework.
 - [vitest-pool-assemblyscript](https://github.com/themattspiral/vitest-pool-assemblyscript) - Vitest integration for running isolated AssemblyScript tests with coverage reporting.
 
