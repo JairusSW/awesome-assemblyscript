@@ -73,6 +73,7 @@ Inspired by https://github.com/sindresorhus/awesome
 
 ### Serialization
 
+- [utf-as](https://github.com/JairusSW/utf-as) - UTF-8 and UTF-16 encoding, decoding, and validation with optional WebAssembly SIMD.
 - [rlp](https://github.com/SteerProtocol/rlp) - RLP implementation.
 - [json-as](https://github.com/JairusSW/json-as) - JSON implementation.
 - [karmem](https://github.com/inkeliz/karmem) - Fast binary serialization format.
@@ -99,7 +100,7 @@ Inspired by https://github.com/sindresorhus/awesome
 ### Math & Numbers
 
 - [as-bignum](https://github.com/MaxGraey/as-bignum) - Fixed-size big numbers.
-- [as-big](https://github.com/ttulka/as-big) - Arbitrary-precision integers.
+- [as-big](https://github.com/ttulka/as-big) - Arbitrary-precision decimal arithmetic.
 - [as-bigint](https://github.com/polywrap/as-bigint) - Big integer math.
 - [as-bignumber](https://github.com/polywrap/as-bignumber) - Arbitrary precision integers and decimals.
 - [as-mpz](https://github.com/Hypercubed/as-mpz) - Arbitrary-precision integer library.
