@@ -40,6 +40,7 @@ Inspired by https://github.com/sindresorhus/awesome
 
 ### Utility
 
+- [assemblyscript-regex](https://github.com/ColinEberhardt/assemblyscript-regex) - Regular-expression engine with a JavaScript-like RegExp API. (Partial syntax support; check compiler compatibility.)
 - [as-container](https://github.com/yjhmelody/as-container) - Rust-like Result and Option types.
 - [as-variant](https://github.com/MaxGraey/as-variant) - Variant type providing dynamic values.
 - [as-string-sink](https://github.com/MaxGraey/as-string-sink) - Efficient string builder.
