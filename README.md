@@ -60,11 +60,12 @@ Inspired by https://github.com/sindresorhus/awesome
 - [biturbo](https://github.com/ewasm/biturbo) - Ethereum 1 EE using Turboproofs.
 - [graph-ts](https://github.com/graphprotocol/graph-tooling/tree/main/packages/ts) - AssemblyScript library for writing subgraph mappings that index blockchain data with The Graph.
 - [massa-as-sdk](https://github.com/massalabs/massa-as-sdk) - SDK for writing Massa smart contracts in AssemblyScript.
+- [koinos-sdk-as](https://github.com/koinos/koinos-sdk-as) - SDK for writing Koinos smart contracts in AssemblyScript.
 
 ### Web
 
 - [asdom](https://github.com/lume/asdom) - DOM bindings (WIP).
-- [ecmassembly](https://github.com/aspkg/ecmassembly) - JavaScript APIs ported to AssemblyScript.
+- [ecmassembly](https://github.com/aspkg/ecmassembly) - Bindings for JavaScript timers and promises; requires the AssemblyScript loader. (WIP)
 - [fui-as](https://github.com/zion-sati/fui-as) - Build a11y-compliant WPF/SwiftUI-grade web apps in AssemblyScript running on the browser.
 
 ### Backend
