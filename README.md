@@ -95,6 +95,7 @@ Inspired by https://github.com/sindresorhus/awesome
 
 ### Testing
 
+- [as-tral](https://github.com/romdotdog/as-tral) - Statistical benchmarking CLI with suites and baseline comparisons. (Check compiler compatibility and workspace layout.)
 - [as-pect](https://github.com/as-pect/as-pect) - Jest-like testing framework.
 - [as-test](https://github.com/JairusSW/as-test) - Runtime-agnostic testing framework.
 - [vitest-pool-assemblyscript](https://github.com/themattspiral/vitest-pool-assemblyscript) - Vitest integration for running isolated AssemblyScript tests with coverage reporting.
