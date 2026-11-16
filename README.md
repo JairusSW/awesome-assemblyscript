@@ -44,6 +44,7 @@ Inspired by https://github.com/sindresorhus/awesome
 - [as-container](https://github.com/yjhmelody/as-container) - Rust-like Result and Option types.
 - [as-variant](https://github.com/MaxGraey/as-variant) - Variant type providing dynamic values.
 - [as-string-sink](https://github.com/MaxGraey/as-string-sink) - Efficient string builder.
+- [as-str](https://github.com/JairusSW/as-str) - UTF-16 and UTF-8 string views for slicing, searching, and trimming without copying character data. (Manual views allocate wrappers.)
 - [as-random](https://github.com/MaxGraey/as-random) - Random number generators.
 - [try-as](https://github.com/JairusSW/try-as) - Try/Catch exception support for AssemblyScript.
 
