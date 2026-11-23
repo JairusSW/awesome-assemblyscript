@@ -96,6 +96,7 @@ Inspired by https://github.com/sindresorhus/awesome
 
 ### Testing
 
+- [as-tral](https://github.com/romdotdog/as-tral) - Statistical benchmarking CLI with suites and baseline comparisons. (Check compiler compatibility and workspace layout.)
 - [as-pect](https://github.com/as-pect/as-pect) - Jest-like testing framework.
 - [as-test](https://github.com/JairusSW/as-test) - Runtime-agnostic testing framework.
 - [assemblyscript-unittest-framework](https://github.com/wasm-ecosystem/assemblyscript-unittest-framework) - Unit testing framework with assertions, function mocking, and coverage reporting.
